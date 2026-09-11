@@ -20,5 +20,5 @@ A living archive of the Psalms, turned into song.
 ## Notes
 - Not written in order. Fill in as we go.
 - Sunday task: one psalm per week.
-- 2 done so far, 148 remaining.
+- **2 done so far, 148 remaining.**
 - Published songs are listed in the playlist https://on.soundcloud.com/WDSxUNaXK5bEzBL8wk
