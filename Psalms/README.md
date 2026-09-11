@@ -5,9 +5,9 @@ A living archive of the Psalms, turned into song.
 ## Structure (per psalm)
 1. **Original Text** — King James Version
 2. **Summary** — what we think it means
-3. **Verses** — lyrical verses
-4. **Chorus** — the hook
-5. **Final Lyrics** — the complete song
+3. **Verses (Original Song Lyrics)** — lyrical verses
+4. **Chorus (Original Song Lyrics)** — the hook
+5. **Final Lyrics (Original Song Lyrics)** — the complete song
 
 ## Progress
 - [x] Psalm 1 — The Tree of Righteousness
@@ -20,4 +20,4 @@ A living archive of the Psalms, turned into song.
 ## Notes
 - Not written in order. Fill in as we go.
 - Sunday task: one psalm per week.
-- ~30 done so far, ~120 remaining.
+- 2 done so far, 148 remaining.
