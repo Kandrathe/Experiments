@@ -12,13 +12,14 @@ A living archive of the Psalms, turned into song.
 ## Progress
 - [x] Psalm 1 — The Tree of Righteousness
 - [x] Psalm 2 — Quare Fremuerunt Gentes
-- [ ] Psalm 3
+- [x] Psalm 3 — From Your Holy Hill I'm Led
 - [ ] Psalm 4
+- [ ] Psalm 5
 - [ ] …
 - [ ] Psalm 150
 
 ## Notes
 - Not written in order. Fill in as we go.
 - Sunday task: one psalm per week.
-- **2 done so far, 148 remaining.**
+- **3 done so far, 147 remaining.**
 - Published songs are listed in the playlist https://on.soundcloud.com/WDSxUNaXK5bEzBL8wk
