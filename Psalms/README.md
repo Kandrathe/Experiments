@@ -11,8 +11,9 @@ A living archive of the Psalms, turned into song.
 
 ## Progress
 - [x] Psalm 1 — The Tree of Righteousness
-- [ ] Psalm 2
+- [x] Psalm 2 — Quare Fremuerunt Gentes
 - [ ] Psalm 3
+- [ ] Psalm 4
 - [ ] …
 - [ ] Psalm 150
 
