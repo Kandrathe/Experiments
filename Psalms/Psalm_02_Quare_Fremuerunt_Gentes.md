@@ -21,81 +21,102 @@ The nations rage. Kings and rulers plot together against the LORD and His anoint
 
 ## 3. Verses (Original Song Lyrics)
 
-(Verse 1)
-Why do the nations rage and roar,
-why do the kings conspire?
-They shake their fists at heaven's door
-and set their hearts on fire.
+[Verse 1 ]
+Why do nations weave their plans, in shadows cold and vain?
+Raging ‘gainst the holy throne, they pull against the chain.
+Yet the heavens hum a truth, unshaken, pure, and strong,
+God’s anointed holds the world, His reign will right the wrong. (right the wrong...)
 
-(Verse 2)
-"Let us break His bands," they cry,
-"and cast His cords away."
-But He who sits above the sky
-is laughing at their play.
+[Verse 2]
+From His throne, the Father laughs, at schemes that fade and fall,
+Earthly kings may boast their might, but He’s the Lord of all.
+“I’ve set My King on Zion’s height,” His voice like thunder sings,
+Nations bow or break apart beneath His holy wings. (his holy wings...)
 
-(Verse 3)
-"I have set My King," He says,
-"upon My holy hill.
-This day I have begotten Thee —
-My Son, My sovereign will."
+[Verse 3]
+Heed the warning, rulers proud, your glory’s but a breath,
+Turn your heart to wisdom’s path, or face the fire of wrath.
+Kiss the Son with trembling joy, His mercy waits for you,
+Find your refuge in His name, where hope is born anew. (Hope is born anew...)
 
-(Verse 4)
-Ask of Me, and I will give
-the nations for Thine own,
-the ends of earth, the depths, the heights —
-all kingdoms are Thy throne.
+[Bridge]
+Oh, the winds may howl, and the shadows creep,
+But His promise holds in the silence deep.
+Through the storm, His voice will guide the way,
+Surrender now, let love’s light stay. (let love's light stay...)
 
-(Verse 5)
-Thou shalt break them with a rod of iron,
-dash them like a vessel's clay.
-So be wise, O kings of earth,
-and tremble in His way.
+[Verse 4]
+Blessed are the souls who run to Him, their shelter and their song,
+In His arms, they find their peace, where they’ve belonged all along.
+Nations fade, but He remains, eternal, kind, and true,
+Lift your eyes to Zion’s King, His grace will carry you. (Will carry you...)
+
 
 ## 4. Chorus (Original Song Lyrics)
+KWAREY- FREMERROONT- HENTAYZ , why do nations stray?
+Chasing fleeting crowns of dust, lost in their own way.
+On Zion’s hill, His light will shine, calling all to see,
+Rest in His love, O wandering heart, His truth will set you free. (set you free...)
+KWA- REY- FRE-MER-ROONT- HEN-TAYZ ,, why do nations stray?
+Chasing fleeting crowns of dust, lost in their own way.
+On Zion’s hill, His light will shine, calling all to see,
+Rest in His love, O wandering heart, His truth will set you free. (set you free...)
 
-Kiss the Son, kiss the Son,
-lest His wrath be kindled soon.
-Blessed are all who trust in Him —
-blessed are all who trust in Him.
 
 ## 5. Final Lyrics (Original Song Lyrics)
 
-Why do the nations rage and roar,
-why do the kings conspire?
-They shake their fists at heaven's door
-and set their hearts on fire.
+Intro (optional, spoken or hummed over soft guitar):
+(Gentle fingerpicking in D major, open chords like D, G, A, Bm)]
+(whisper)In the quiet of the heart, hear the King’s call…
 
-"Let us break His bands," they cry,
-"and cast His cords away."
-But He who sits above the sky
-is laughing at their play.
+[Verse 1 ]
+Why do nations weave their plans, in shadows cold and vain?
+Raging ‘gainst the holy throne, they pull against the chain.
+Yet the heavens hum a truth, unshaken, pure, and strong,
+God’s anointed holds the world, His reign will right the wrong. (right the wrong...)
 
-"I have set My King," He says,
-"upon My holy hill.
-This day I have begotten Thee —
-My Son, My sovereign will."
+[Chorus]
+KWAREY- FREMERROONT- HENTAYZ , why do nations stray?
+Chasing fleeting crowns of dust, lost in their own way.
+On Zion’s hill, His light will shine, calling all to see,
+Rest in His love, O wandering heart, His truth will set you free. (set you free...)
 
-Ask of Me, and I will give
-the nations for Thine own,
-the ends of earth, the depths, the heights —
-all kingdoms are Thy throne.
+[Verse 2]
+From His throne, the Father laughs, at schemes that fade and fall,
+Earthly kings may boast their might, but He’s the Lord of all.
+“I’ve set My King on Zion’s height,” His voice like thunder sings,
+Nations bow or break apart beneath His holy wings. (his holy wings...)
 
-Thou shalt break them with a rod of iron,
-dash them like a vessel's clay.
-So be wise, O kings of earth,
-and tremble in His way.
+[Chorus]
+KWA- REY- FRE-MER-ROONT- HEN-TAYZ ,, why do nations stray?
+Chasing fleeting crowns of dust, lost in their own way.
+On Zion’s hill, His light will shine, calling all to see,
+Rest in His love, O wandering heart, His truth will set you free. (set you free...)
 
-Kiss the Son, kiss the Son,
-lest His wrath be kindled soon.
-Blessed are all who trust in Him —
-blessed are all who trust in Him.
+[Verse 3]
+Heed the warning, rulers proud, your glory’s but a breath,
+Turn your heart to wisdom’s path, or face the fire of wrath.
+Kiss the Son with trembling joy, His mercy waits for you,
+Find your refuge in His name, where hope is born anew. (Hope is born anew...)
 
-Serve the LORD with fear and awe,
-rejoice with trembling heart.
-For He is God, and He is near —
-His mercy won't depart.
+[Bridge]
+Oh, the winds may howl, and the shadows creep,
+But His promise holds in the silence deep.
+Through the storm, His voice will guide the way,
+Surrender now, let love’s light stay. (let love's light stay...)
 
-Kiss the Son, kiss the Son,
-lest His wrath be kindled soon.
-Blessed are all who trust in Him —
-blessed are all who trust in Him.
+[Verse 4]
+Blessed are the souls who run to Him, their shelter and their song,
+In His arms, they find their peace, where they’ve belonged all along.
+Nations fade, but He remains, eternal, kind, and true,
+Lift your eyes to Zion’s King, His grace will carry you. (Will carry you...)
+
+[Chorus]
+KWA- REY- FRE-MER-ROONT- HEN-TAYZ , why do nations stray?
+Chasing fleeting crowns of dust, lost in their own way.
+On Zion’s hill, His light will shine, calling all to see,
+Rest in His love, O wandering heart, His truth will set you free. (set you free...)
+
+[Outro (optional, over fading guitar):
+(Soft strumming, let chords ring)
+KWA- REY- FRE-MER-ROONT… ]His truth will set you free…
