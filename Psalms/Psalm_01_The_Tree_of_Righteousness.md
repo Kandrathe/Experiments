@@ -22,7 +22,7 @@ Two roads. One rooted, one drifting. The blessed man refuses the ungodly's couns
 
 ---
 
-## 3. Verses
+## 3. Verses (Original Song Lyrics)
 
 **(Verse 1)**
 I walk the path where shadows fade,
@@ -49,7 +49,7 @@ A tree by the river, untouched by pain.
 
 ---
 
-## 4. Chorus
+## 4. Chorus (Original Song Lyrics)
 
 Ooh, ooh, ooh, stand tall, stand true,
 Ooh, ooh, ooh, the righteous bloom.
@@ -59,7 +59,7 @@ Ooh, ooh, ooh, in light we’re made.
 
 ---
 
-## 5. Final Lyrics
+## 5. Final Lyrics (Original Song Lyrics)
 
 [Intro: Soft Acoustic Fingerpicking, Ambient Forest Sounds]
 
