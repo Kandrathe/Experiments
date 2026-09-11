@@ -19,7 +19,7 @@
 
 The nations rage. Kings and rulers plot together against the LORD and His anointed, plotting to throw off His rule. But the One enthroned in heaven laughs — not in cruelty, but in sovereign amusement at their futility. He has already set His King on Zion. The decree is spoken: "Thou art my Son; this day have I begotten thee." The Son is given the nations as inheritance and the ends of the earth as possession. He will rule with a rod of iron, shattering the rebellious like pottery. The warning turns to wisdom: be wise, O kings. Serve the LORD with fear and trembling joy. Kiss the Son — submit to Him — or perish in His wrath. Blessed are all who take refuge in Him.
 
-## 3. Verses
+## 3. Verses (Original Song Lyrics)
 
 (Verse 1)
 Why do the nations rage and roar,
@@ -51,14 +51,14 @@ dash them like a vessel's clay.
 So be wise, O kings of earth,
 and tremble in His way.
 
-## 4. Chorus
+## 4. Chorus (Original Song Lyrics)
 
 Kiss the Son, kiss the Son,
 lest His wrath be kindled soon.
 Blessed are all who trust in Him —
 blessed are all who trust in Him.
 
-## 5. Final Lyrics
+## 5. Final Lyrics (Original Song Lyrics)
 
 Why do the nations rage and roar,
 why do the kings conspire?
