@@ -25,72 +25,102 @@ Two roads. One rooted, one drifting. The blessed man refuses the ungodly's couns
 ## 3. Verses
 
 **(Verse 1)**
-I will not walk where the wicked lead,  
-nor stand where the sinners tread,  
-nor sit in the seat where the mockers feed  
-on the words the faithful dread.  
+I walk the path where shadows fade,
+Beside the stream, my soul is laid.
+A tree by water, roots so deep,
+Through storm and fire, my faith I keep.
+The scornful whisper, their words like dust,
+But in the wind, their lies will rust.
+They drift like chaff, no place to stand,
+While I’m held firm in a maker’s hand.
+
 
 **(Verse 2)**
-But my delight is the law of the Lord,  
-I meditate day and night,  
-and the river of His word is my reward,  
-and the darkness becomes light.  
+The Lord watches, He knows my way,
+Guides my steps through night and day.
+The wicked falter, their hearts undone,
+Like ash in the breeze, their time is none.
+I’ll rise in glory, my roots entwined,
+With waters of grace, my strength divine.
+Through every trial, I’ll still remain,
+A tree by the river, untouched by pain.
 
-**(Verse 3)**
-I am a tree by the rivers of water,  
-my roots drink deep and slow,  
-I bear my fruit in the proper season,  
-and my leaf will never know  
-the withering wind of the desert's breath,  
-for the stream runs through my soul.  
+ 
 
 ---
 
 ## 4. Chorus
 
-Like a tree by the river,  
-I will not wither,  
-I will not fall,  
-I will not wither,  
-planted by the water,  
-rooted in the call.  
+Ooh, ooh, ooh, stand tall, stand true,
+Ooh, ooh, ooh, the righteous bloom.
+Ooh, ooh, ooh, the wicked fade,
+Ooh, ooh, ooh, in light we’re made.
+
 
 ---
 
 ## 5. Final Lyrics
 
-I will not walk where the wicked lead,  
-nor stand where the sinners tread,  
-nor sit in the seat where the mockers feed  
-on the words the faithful dread.  
+[Intro: Soft Acoustic Fingerpicking, Ambient Forest Sounds]
 
-But my delight is the law of the Lord,  
-I meditate day and night,  
-and the river of His word is my reward,  
-and the darkness becomes light.  
+[Soft Vocals Tenor, Reflective]
+Mmm, mmm, mmm, mmm…
+Mmm, mmm, mmm, mmm…
 
-I am a tree by the rivers of water,  
-my roots drink deep and slow,  
-I bear my fruit in the proper season,  
-and my leaf will never know  
-the withering wind of the desert's breath,  
-for the stream runs through my soul.  
+[Verse 1: Acoustic Guitar, Light Strumming, Subtle Hand Drum Pulse]
+I walk the path where shadows fade,
+Beside the stream, my soul is laid.
+A tree by water, roots so deep,
+Through storm and fire, my faith I keep.
+The scornful whisper, their words like dust,
+But in the wind, their lies will rust.
+They drift like chaff, no place to stand,
+While I’m held firm in a maker’s hand.
 
-Like a tree by the river,  
-I will not wither,  
-I will not fall,  
-I will not wither,  
-planted by the water,  
-rooted in the call.  
+[Refrain: Harmonized Vocals, Soft Oohs, Acoustic Guitar]
+[Harmonized Vocals:]
+Ooh, ooh, ooh, stand tall, stand true,
+Ooh, ooh, ooh, the righteous bloom.
+Ooh, ooh, ooh, the wicked fade,
+Ooh, ooh, ooh, in light we’re made.
 
-The ungodly are chaff on the wind,  
-they have no root, no stay,  
-but the Lord knows the way of the righteous,  
-and the wicked fade away.  
+[Verse 2: Acoustic Guitar, Fingerpicking, Faint Breeze Sounds]
+The Lord watches, He knows my way,
+Guides my steps through night and day.
+The wicked falter, their hearts undone,
+Like ash in the breeze, their time is none.
+I’ll rise in glory, my roots entwined,
+With waters of grace, my strength divine.
+Through every trial, I’ll still remain,
+A tree by the river, untouched by pain.
 
-Like a tree by the river,  
-I will not wither,  
-I will not fall,  
+[Refrain: Harmonized Vocals, Soft Oohs, Acoustic Guitar]
+[Harmonized Vocals]
+Ooh, ooh, ooh, stand tall, stand true,
+Ooh, ooh, ooh, the righteous bloom.
+Ooh, ooh, ooh, the wicked fade,
+Ooh, ooh, ooh, in light we’re made.
+
+[Bridge: Minimal Guitar Plucking, Soft Humming, Flowing Water Sounds]
+[Soft Vocals Tenor, Echoing]
+Mmm, mmm, mmm, the chaff will blow,
+
+Mmm, mmm, mmm, no roots to grow.
+[Harmonized Vocals (Faint]
+But the tree stands high, by waters bright,
+Through endless storms, it finds the light.
+
+[Outro: Slow Acoustic Strumming, Fading Hums, Ambient Forest Sounds]
+[Soft Vocals (Tenor, Whispered]
+By the river’s grace, I’ll abide,
+In the Lord’s embrace, I’ll reside.
+The wicked drift, like leaves in air…
+
+[Fading Hums]
+Mmm, mmm, mmm… they disappear.
+
+
+
 I will not wither,  
 planted by the water,  
 rooted in the call.
