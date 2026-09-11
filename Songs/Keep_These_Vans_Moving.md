@@ -4,13 +4,19 @@
 **YouTube:** https://www.youtube.com/watch?v=6LO1KYEKjEA  
 **Genre:** Dubstep / island anthem / volcanic disaster  
 **Mood:** Fear, flight, resilience  
-**Structure:** Verses climb 160 → 220 BPM; choruses drop dubstep
+**Structure:** Hidden sad intro → Verses climb 160 → 220 BPM; choruses drop dubstep
 
 The vans are the sneakers. Hawaii wears them more than anywhere. Lava takes the rubber. The feet keep grooving.
 
 ---
 
 ## 1. Original Text (Lyric)
+
+[Hidden Intro — The Last Dance] [Energy: Low, mournful]
+I danced in these Vans on the black sand shore,
+Duke's ghost smiling, the ocean's roar.
+Now the mountain's breathing, the sky turns red,
+and the shoes that carried me are already dead.
 
 [Verse 1 ,160 BPM]
 Lost in the haze, of Haleakala's flames
@@ -71,9 +77,17 @@ Gotta keep these Vans a screaming
 
 A volcanic-evacuation song wearing two skins at once. On the surface it is Haleakala fire, ash, refugees of fire, aloha fading then returning. Underneath, the hook is the sneaker: Vans as the island's everyday shoe. First choruses keep the vans *moving*. The last chorus lets them *melt, pelt, stream, scream* — the rubber burning while the feet still groove. The BPM climb (160–220) is the mountain getting closer.
 
+A hidden sad intro — **The Last Dance** — opens the song in mourning: the last night the Vans danced on black sand, Duke's ghost smiling, before the mountain breathes and the shoes die. It is meant to be heard only on the second play, so the sneakers matter before they burn.
+
 ---
 
 ## 3. Verses (Original Song Lyrics)
+
+**(Hidden Intro — The Last Dance)**
+I danced in these Vans on the black sand shore,
+Duke's ghost smiling, the ocean's roar.
+Now the mountain's breathing, the sky turns red,
+and the shoes that carried me are already dead.
 
 **(Verse 1 — 160 BPM)**
 Lost in the haze, of Haleakala's flames
@@ -124,6 +138,7 @@ See section 1.
 
 ## 6. Video notes
 
+- Hidden intro: last dance on black sand, Duke's ghost, the Vans still whole — only visible on second play
 - Verse 1: Haleakala haze, house in flame, ash on a checkerboard slip-on
 - Chorus: feet running in Vans, close on the waffle sole, lava in the background — never catch the shoe
 - Verse 2: night, evacuees, strangers helping strangers
