@@ -53,15 +53,13 @@ Lift your eyes to Zion’s King, His grace will carry you. (Will carry you...)
 
 
 ## 4. Chorus (Original Song Lyrics)
+KWA- REY- FRE-MER-ROONT- HEN-TAYZ 
+or
 KWAREY- FREMERROONT- HENTAYZ , why do nations stray?
-Chasing fleeting crowns of dust, lost in their own way.
-On Zion’s hill, His light will shine, calling all to see,
-Rest in His love, O wandering heart, His truth will set you free. (set you free...)
-KWA- REY- FRE-MER-ROONT- HEN-TAYZ ,, why do nations stray?
-Chasing fleeting crowns of dust, lost in their own way.
-On Zion’s hill, His light will shine, calling all to see,
-Rest in His love, O wandering heart, His truth will set you free. (set you free...)
 
+Chasing fleeting crowns of dust, lost in their own way.
+On Zion’s hill, His light will shine, calling all to see,
+Rest in His love, O wandering heart, His truth will set you free. (set you free...)
 
 ## 5. Final Lyrics (Original Song Lyrics)
 
