@@ -1,8 +1,8 @@
 # Psalm 4 — You alone are my Safety and Peace
 ## Suno Style Metadata
 
-[GENRES: Jansen, Orchestral, Spiritual]
-[SOUNDS LIKE: Jansen]
+[GENRES: Chanson, Orchestral, Spiritual]
+[SOUNDS LIKE: Chanson]
 [STYLE: Orchestral, Spiritual, Warm]
 [MOOD: Peaceful, Reflective, Reverent]
 [VOCALS: Female, mezzo-soprano, Harmonized]
