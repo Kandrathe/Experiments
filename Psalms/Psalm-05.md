@@ -1,18 +1,18 @@
-# Psalm 5 — Morning Prayer Against the Liars
+# Psalm 5 — Hear Me, O Lord
 ## Suno Style Metadata
 
 [GENRES: Chanson, Orchestral, Spiritual]
 [SOUNDS LIKE: Chanson]
 [STYLE: Orchestral, Spiritual, Warm]
-[MOOD: Peaceful, Reflective, Reverent]
-[VOCALS: Female, mezzo-soprano, Harmonized]
+[MOOD: Reverent, Morning prayer, Quiet fire]
+[VOCALS: Raspy tenor, solo verses; harmonies on chorus]
 [ARRANGEMENT: Acoustic-led with orchestral swell, Warm harmonies]
-[INSTRUMENTATION: Acoustic guitar, Orchestral strings, Optional: Light percussion, Vocals: Solo, slightly raspy, with occasional harmony on the chorus for emotional lift]
+[INSTRUMENTATION: Acoustic guitar, Orchestral strings, Optional: Light percussion / shaker; Vocals: Solo, slightly raspy tenor, harmony lift on the chorus]
 [TEMPO: Moderate, 70-80 BPM]
 [PRODUCTION: Organic, Analog warmth, Clean mix]
-[STRUCTURE: Intro, Verse, Chorus, Verse, Chorus, Outro]
-[DYNAMICS: Smooth, Relaxed groove]
-[EMOTIONS: Contentment, Freedom, Reflection]
+[STRUCTURE: Verse, Verse, Chorus, Verse, Chorus, Verse, Verse, Final Chorus, Outro]
+[DYNAMICS: Smooth, Relaxed groove; chorus builds]
+[EMOTIONS: Longing, Reverence, Refuge]
 
 ---
 
@@ -54,16 +54,162 @@ David prays in the morning — a cry for God to hear his words and consider his 
 
 ## 3. Verses (Original Song Lyrics)
 
-*(empty — fill in from your final lyric)*
+**(Verse 1)**
+Hear my words, O Lord, I pray,
+Hear the longing in my heart.
+In the morning I will seek You,
+Before the waking day can start.
+I will lay my prayer before You,
+Lift my eyes and wait on You.
+You are still my King and Savior,
+Faithful, holy, ever true.
+
+**(Verse 2)**
+You take no pleasure in evil, Lord,
+No darkness dwells beside Your throne.
+Pride cannot stand before Your eyes,
+For every hidden heart is known.
+You see the lies behind our words,
+The hands that wound, the tongues that deceive.
+You are righteous, pure and holy,
+And truth is all that You receive.
+
+**(Verse 3)**
+Still I will come into Your house,
+By the mercy You have shown.
+With a reverent heart I bow
+Before Your holy throne.
+Lead me, Lord, in righteousness,
+Make the road before me straight.
+When the voices rise against me,
+Keep my footsteps in Your way.
+
+**(Verse 4)**
+There is no faith upon their lips,
+Their hearts are filled with lies.
+Their words may open like a grave
+Your poisoned kiss in sweet disguise
+Let every scheme collapse in time,
+Let falsehood lose its stand.
+For those who turn away from You
+Build their lives on sinking sand.
+
+**(Verse 5)**
+Let all who put their trust in You
+Lift their voices, shout and sing.
+You defend the ones who love Your name
+And shelter them beneath Your wings.
+You will bless the righteous, Lord,
+With Your favor day and night.
+Like a shield, Your grace surrounds us,
+Holding us within Your light.
 
 ---
 
 ## 4. Chorus (Original Song Lyrics)
 
-*(empty — fill in from your final lyric)*
+Hear me, O Lord, when I cry out to You,
+You see every falsehood and wrong that we do.
+I will be humble and yield to Your grace,
+For evil cannot stand before Your holy face.
+We worship You,
+We worship You,
+We worship You.
 
 ---
 
 ## 5. Final Lyrics (Original Song Lyrics)
 
-*(empty — your lyric goes here)*
+[Verse 1]
+[Solo vocal, raspy tenor, fingerpicked guitar continues]
+Hear my words, O Lord, I pray,
+Hear the longing in my heart.
+In the morning I will seek You,
+Before the waking day can start.
+I will lay my prayer before You,
+Lift my eyes and wait on You.
+You are still my King and Savior,
+Faithful, holy, ever true.
+
+[Verse 2]
+[Return to solo vocal, fingerpicked guitar, minimal and raw]
+You take no pleasure in evil, Lord,
+No darkness dwells beside Your throne.
+Pride cannot stand before Your eyes,
+For every hidden heart is known.
+You see the lies behind our words,
+The hands that wound, the tongues that deceive.
+You are righteous, pure and holy,
+And truth is all that You receive.
+
+[Chorus]
+[Harmonies return, slightly fuller strum, shaker subtly builds]
+Hear me, O Lord, when I cry out to You,
+You see every falsehood and wrong that we do.
+I will be humble and yield to Your grace,
+For evil cannot stand before Your holy face.
+We worship You,
+We worship You,
+We worship You.
+
+[Verse 3]
+[Return to solo vocal, fingerpicked guitar, minimal and raw]
+Still I will come into Your house,
+By the mercy You have shown.
+With a reverent heart I bow
+Before Your holy throne.
+Lead me, Lord, in righteousness,
+Make the road before me straight.
+When the voices rise against me,
+Keep my footsteps in Your way.
+
+[Chorus]
+[Harmonies return, slightly fuller strum, shaker subtly builds]
+Hear me, O Lord, when I cry out to You,
+You see every falsehood and wrong that we do.
+I will be humble and yield to Your grace,
+For evil cannot stand before Your holy face.
+We worship You,
+We worship You,
+We worship You.
+
+[Verse 4]
+[Return to solo vocal, fingerpicked guitar, minimal and raw]
+There is no faith upon their lips,
+Their hearts are filled with lies.
+Their words may open like a grave
+Your poisoned kiss in sweet disguise
+Let every scheme collapse in time,
+Let falsehood lose its stand.
+For those who turn away from You
+Build their lives on sinking sand.
+
+[Verse 5]
+[Return to solo vocal, fingerpicked guitar, minimal and raw]
+Let all who put their trust in You
+Lift their voices, shout and sing.
+You defend the ones who love Your name
+And shelter them beneath Your wings.
+You will bless the righteous, Lord,
+With Your favor day and night.
+Like a shield, Your grace surrounds us,
+Holding us within Your light.
+
+[Final Chorus]
+[Harmonies return, slightly fuller strum, shaker subtly builds]
+Hear me, O Lord, when I cry out to You,
+You see every falsehood and wrong that we do.
+I will be humble and yield to Your grace,
+For evil cannot stand before Your holy face.
+We worship You,
+We worship You,
+We worship You.
+
+[Outro]
+In the morning I will seek You,
+In the morning I will pray.
+With my eyes lifted toward heaven,
+I will trust You through the day.
+We worship You,
+We worship You,
+We worship You.
