@@ -7,8 +7,8 @@ A collection of original songs based on the Psalms of David.
 - [x] Psalm 1 — The Tree of Righteousness
 - [x] Psalm 2 — Quare Fremuerunt Gentes
 - [x] Psalm 3 — From Your Holy Hill
-- [x] Psalm 4 — (Chanson)
-- [x] Psalm 5 — (Chanson)
+- [x] Psalm 4 — You alone are my Safety and Peace (Chanson)
+- [x] Psalm 5 — Hear Me, O Lord (Chanson)
 - [ ] Psalm 6 — (shell ready)
 - [ ] Psalms 7–150 — open
 
@@ -26,6 +26,7 @@ A collection of original songs based on the Psalms of David.
 ## Songs
 
 - [Super Hornet — The Rhino](../Songs/Super_Hornet_Rhino.md) — carrier-deck ballad, shot list included
+- [Keep These Vans Moving](../Songs/Keep_These_Vans_Moving.md) — Haleakala / sneakers / lava
 
 ## Notes
 
