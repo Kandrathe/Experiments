@@ -71,10 +71,26 @@ Bless the LORD, all his works in all places of his dominion: bless the LORD, O m
 ---
 
 ## 2. What David Is Saying
+David starts by telling his entire inner being and soul to bless God's holy name.(Intro)
+
+He tells himself not to forget all the good things God has done.(Verse 1)
+David counts the specific ways God shows kindness
+God forgives all sins and heals all diseases.
+God rescues life from destruction (the pit) and crowns people with love and compassion
+God fills life with good things and renews youth like an eagle's.
+God works righteousness and justice for the oppressed.(Verse2)
+
+David highlights that God is merciful, gracious, slow to anger, and abounding in steadfast love.(Chorus )
+He compares human life to grass or a fading wildflower, reminding himself that people are short-lived.
+
+In contrast to fleeting human life, God's steadfast love from everlasting to everlasting is on those who fear Him.(Bridge)
+David ends the psalm by calling on all creation—angels, heavenly hosts, ministers, (Verse3)
+and everything in God’s dominion—to bless the Lord right along with his own soul
 
 ### Situation
-
+David reflects upon why we should worship 
 ### Emotional State
+Awed, Grateful, exultant, thankful, triumphant
 
 ### Conflict
 
@@ -99,12 +115,39 @@ Bless the LORD, all his works in all places of his dominion: bless the LORD, O m
 ## 4. Original Song Lyrics
 
 ### Verse 1
+Bless the Lord, forget not all His grace
+He pardons every sin, He heals disease
+Redeems your life from ruin and the grave
+Crowns you with love, renews your youth like eagles
 
 ### Chorus
+Merciful and gracious, slow to anger is He
+Rich in steadfast love that will not cease
+He will not always chide, nor stay displeased
+O bless the Lord, my soul — His mercy sets me free!
+(Bless the Lord, my soul — His mercy sets me free!)
 
 ### Verse 2
+The Lord works justice for the oppressed
+To Moses showed His ways, to Israel His deeds
+He tempers justice with unfailing love
+As high as heaven, so great His mercy
 
-### Bridge
+### Bridge ###
+
+As far as east from west He casts our sins
+Like a father pities children, so He pities us
+He knows our frame, remembers we are dust
+Yet from everlasting, His mercy stands
+
+### Verse 3
+Bless the Lord, you angels, mighty ones
+You hosts of heaven, heed His word and voice
+His kingdom rules o’er all that breathe and move
+Bless the Lord, O my soul — let all creation rejoice!
+
+
+
 
 ---
 
@@ -124,9 +167,10 @@ Bless the LORD, all his works in all places of his dominion: bless the LORD, O m
 **Emotional Arc:**  
 
 ### Suno Style
+spiritual folk, lo-fi chanson, 78 BPM, fingerpicked acoustic guitar, brushed drums, upright bass, Harmonica, male lead vocal, group choir refrains, tape saturation, spring reverb, mono room sound, half-time bridge, dynamic chorus lift, 1970s hymn-folk, intimate intro, triumphant outro
 
 ### Arrangement Notes
-
+[intro – gentle, 8 bars] 
 ### Vocal Notes
 
 ### Mix / Master Notes
