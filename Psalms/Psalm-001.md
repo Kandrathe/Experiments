@@ -20,11 +20,33 @@ For the LORD knoweth the way of the righteous: but the way of the ungodly shall 
 
 Two roads. One rooted, one drifting. The blessed man refuses the ungodly's counsel, the sinner's path, the scorner's seat — and instead drinks from God's law day and night. He becomes a tree by living water: fruit in season, leaf that never withers, work that prospers. The ungodly are chaff — weightless, rootless, blown away by the first wind. God knows the righteous way. The other way simply ends.
 
+### Situation
 
+### Emotional State
 
-## 3. Verses (Original Song Lyrics)
+### Conflict
 
-**(Verse 1)**
+### Turning Point
+
+### Core Spiritual Truth
+
+---
+## 3. My Interpretation
+
+### Contemporary Equivalent
+
+### What I Preserved
+
+### Modern Images / Language
+
+### Song Thesis
+
+---
+
+## 4. Original Song Lyrics
+
+### Verse 1
+
 I walk the path where shadows fade,
 Beside the stream, my soul is laid.
 A tree by water, roots so deep,
@@ -34,7 +56,7 @@ But in the wind, their lies will rust.
 They drift like chaff, no place to stand,
 While I’m held firm in a maker’s hand.
 
-**(Verse 2)**
+### Verse 2
 The Lord watches, He knows my way,
 Guides my steps through night and day.
 The wicked falter, their hearts undone,
@@ -44,18 +66,19 @@ With waters of grace, my strength divine.
 Through every trial, I’ll still remain,
 A tree by the river, untouched by pain.
 
----
-
-## 4. Chorus (Original Song Lyrics)
-
+### Chorus
 Ooh, ooh, ooh, stand tall, stand true,
 Ooh, ooh, ooh, the righteous bloom.
 Ooh, ooh, ooh, the wicked fade,
 Ooh, ooh, ooh, in light we’re made.
 
+### Verse 2
+
+### Bridge
+
 ---
 
-## 5. Final Lyrics (Original Song Lyrics)
+## 5. Final Lyrics
 
 [Intro: Soft Acoustic Fingerpicking, Ambient Forest Sounds]
 
@@ -115,53 +138,36 @@ The wicked drift, like leaves in air…
 [Fading Hums]
 Mmm, mmm, mmm… they disappear.
 
-I will not wither,  
-planted by the water,  
-rooted in the call. 
+---
 
-## 2. What David Is Saying##
-   
-Situation
-Emotional State
-Conflict
-Turning Point
-Core Spiritual Truth
-4. My Interpretation
-Contemporary Equivalent
-What I Preserved
-Modern Images / Language
-Song Thesis
+## 6. Production
 
-## 5. Original Song Lyrics ##
-Verse 1
-Chorus
-Verse 2
-Bridge
-6. Final Lyrics
-7. Production
+**Working Title:**  
+**Genre:**  
+**Tempo:**  
+**Key:**  
+**Vocal:**  
+**Instrumentation:**  
+**Mood:**  
+**Emotional Arc:**  
 
-## 6. ##
+### Suno Style
 
-Working Title:
-Genre:
-Tempo:
-Key:
-Vocal:
-Instrumentation:
-Mood:
-Emotional Arc:
+### Arrangement Notes
 
-Suno Style
-Arrangement Notes
-Vocal Notes
-Mix / Master Notes
+### Vocal Notes
 
-## 7. Release ##
+### Mix / Master Notes
 
-Album:
-Version:
-Release Status:
-ISRC:
-Notes:
+---
 
+## 7. Release
+
+**Album:**  
+**Version:**  
+**Release Status:**  
+**ISRC:**  
+**Notes:**  
+
+---
 The goal is not a literal translation of the Psalm, but a contemporary song that preserves its emotional and spiritual intent.
