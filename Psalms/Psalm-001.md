@@ -16,30 +16,40 @@ For the LORD knoweth the way of the righteous: but the way of the ungodly shall 
 
 ---
 
-## 2. Summary
+## 2. What David Is Saying
 
 Two roads. One rooted, one drifting. The blessed man refuses the ungodly's counsel, the sinner's path, the scorner's seat — and instead drinks from God's law day and night. He becomes a tree by living water: fruit in season, leaf that never withers, work that prospers. The ungodly are chaff — weightless, rootless, blown away by the first wind. God knows the righteous way. The other way simply ends.
 
 ### Situation
+The speaker sets two ways before the listener: receiving the counsel of the wicked or delighting in the LORD’s law.
 
 ### Emotional State
+Steady delight in God’s teaching, with a sober awareness that a rootless life can disappear.
 
 ### Conflict
+The wicked draw a person from counsel to path to seat; their apparent success has no lasting root.
 
 ### Turning Point
+The contrast between a tree fed by streams and chaff blown by wind reveals what each way becomes.
 
 ### Core Spiritual Truth
+The LORD knows the righteous way; nourishment in his teaching bears fruit in season.
 
 ---
+
 ## 3. My Interpretation
 
 ### Contemporary Equivalent
+A person chooses daily whose voices to trust and where to put down roots.
 
 ### What I Preserved
+The two ways, delight in God’s word, fruit in its season, the tree by water, the windblown chaff, and the LORD’s knowing.
 
 ### Modern Images / Language
+Paths, whispering voices, storm, ash, river, and roots are already in the lyric; keep them as the song’s imagery.
 
 ### Song Thesis
+God’s sustaining way gives a rooted life that can bear fruit when its season comes.
 
 ---
 
@@ -71,10 +81,6 @@ Ooh, ooh, ooh, stand tall, stand true,
 Ooh, ooh, ooh, the righteous bloom.
 Ooh, ooh, ooh, the wicked fade,
 Ooh, ooh, ooh, in light we’re made.
-
-### Verse 2
-
-### Bridge
 
 ---
 
@@ -142,22 +148,26 @@ Mmm, mmm, mmm… they disappear.
 
 ## 6. Production
 
-**Working Title:**  
-**Genre:**  
-**Tempo:**  
-**Key:**  
-**Vocal:**  
-**Instrumentation:**  
-**Mood:**  
-**Emotional Arc:**  
+**Working Title:** The Tree of Righteousness  
+**Genre:** Spiritual acoustic folk; reflective lo-fi  
+**Tempo:** Not documented; settle by the vocal phrasing  
+**Key:** Not documented  
+**Vocal:** Soft tenor lead, with harmonies on the refrain  
+**Instrumentation:** Fingerpicked acoustic guitar, light hand drum, soft ambient water/forest texture  
+**Mood:** Rooted, reflective, quietly resolute  
+**Emotional Arc:** A private choice grows into steady confidence, then fades back to the riverside  
 
 ### Suno Style
+Intimate acoustic spiritual folk; soft tenor lead, harmonized wordless refrain, fingerpicked guitar, subtle hand drum, organic room sound, restrained dynamics.
 
 ### Arrangement Notes
+Start with solo fingerpicking and hum; add hand drum in verse one and harmonies on the refrain. Return to sparse plucking for the bridge; let the outro settle.
 
 ### Vocal Notes
+Keep the verses conversational and the refrain gentle; the existing tenor direction is part of the draft.
 
 ### Mix / Master Notes
+Keep water and forest textures behind the words; avoid letting the hand drum obscure the low voice.
 
 ---
 
@@ -171,3 +181,4 @@ Mmm, mmm, mmm… they disappear.
 
 ---
 The goal is not a literal translation of the Psalm, but a contemporary song that preserves its emotional and spiritual intent.
+
