@@ -46,13 +46,47 @@ Give ear to my words, O LORD, consider my meditation.
 
 ---
 
-## 2. Summary
+## 2. What David Is Saying
 
 David prays in the morning — a cry for God to hear his words and consider his meditation. He knows God takes no pleasure in wickedness, so the liars and the deceitful cannot stand before Him. David comes into God's house through mercy, asking to be led in righteousness against his enemies. He describes the wicked plainly: no faithfulness in their mouths, their throats like open graves, flattering tongues hiding rot. He asks God to destroy them by their own counsels. Then the turn — those who trust in the Lord will rejoice and shout for joy, defended and shielded by His favor. The psalm moves from morning plea, to judgment on the liars, to confident refuge.
 
+
+### Situation
+The speaker brings his prayer to God at daybreak and waits for an answer.
+
+### Emotional State
+Longing and moral urgency grow into reverent worship and joy for those who trust.
+
+### Conflict
+Deceit and violence surround him; he asks God to lead him straight and judge those who rebel.
+
+### Turning Point
+Mercy opens the way into God’s house; the ending widens into shared rejoicing and the image of divine favor as a shield.
+
+### Core Spiritual Truth
+God’s holiness exposes deceit, while his mercy and favor shelter those who trust him.
+
 ---
 
-## 3. Verses (Original Song Lyrics)
+## 3. My Interpretation
+
+### Contemporary Equivalent
+A morning prayer for clear direction while manipulative voices try to bend the path.
+
+### What I Preserved
+The morning cry, God’s rejection of evil, entry by mercy, a straight path, deceptive speech, judgment, rejoicing, and the shield of favor.
+
+### Modern Images / Language
+Waking day, poisoned kiss, sinking sand, sheltering wings, and light are images already used by the draft.
+
+### Song Thesis
+Hear me at dawn, lead me through deceit, and let everyone who trusts You rejoice under Your favor.
+
+---
+
+## 4. Original Song Lyrics
+
+### Verses
 
 **(Verse 1)**
 Hear my words, O Lord, I pray,
@@ -106,7 +140,7 @@ Holding us within Your light.
 
 ---
 
-## 4. Chorus (Original Song Lyrics)
+### Chorus
 
 Hear me, O Lord, when I cry out to You,
 You see every falsehood and wrong that we do.
@@ -118,7 +152,7 @@ We worship You.
 
 ---
 
-## 5. Final Lyrics (Original Song Lyrics)
+## 5. Final Lyrics
 
 [Verse 1]
 [Solo vocal, raspy tenor, fingerpicked guitar continues]
@@ -213,3 +247,43 @@ I will trust You through the day.
 We worship You,
 We worship You,
 We worship You.
+
+---
+
+## 6. Production
+
+**Working Title:** Hear Me, O Lord  
+**Genre:** Spiritual chanson with orchestral lift  
+**Tempo:** 70–80 BPM (existing metadata)  
+**Key:** Not documented  
+**Vocal:** Raspy tenor solo in verses; harmony in choruses  
+**Instrumentation:** Fingerpicked acoustic guitar, soft strings, optional shaker  
+**Mood:** Reverent, searching, increasingly joyful  
+**Emotional Arc:** Morning petition moves through judgment and mercy toward communal refuge  
+
+### Suno Style
+Retain the existing Suno Style Metadata; a close morning prayer with acoustic guitar and an orchestral swell reserved for the last chorus.
+
+### Arrangement Notes
+Keep the five existing verses and their order. The chorus lifts after verses two and three; build gently in verse five and the final refrain.
+
+### Vocal Notes
+Start nearly spoken and intimate; make the final 'We worship You' communal without overpowering the tenor lead.
+
+### Mix / Master Notes
+Keep lyric clarity through the long form; allow headroom for the late swell, and let the final chorus resolve before the outro.
+
+---
+
+## 7. Release
+
+**Album:**  
+**Version:**  
+**Release Status:**  
+**ISRC:**  
+**Notes:**  
+
+---
+
+> The goal is not a literal translation of the Psalm, but a contemporary song that preserves its emotional and spiritual intent.
+
