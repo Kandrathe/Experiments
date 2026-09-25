@@ -36,13 +36,47 @@
 
 ---
 
-## 2. Summary
+## 2. What David Is Saying
 
 David cries out to God in the middle of distress and asks for mercy. He confronts the people who mock his faith and chase empty lies, reminding them that the Lord sets the godly apart and hears when they call. He urges them to be still, examine their own hearts, and trust in the Lord rather than vanity. The turning point comes when David declares that God has put gladness in his heart — a joy deeper than harvest or wine. He ends in perfect peace, able to lie down and sleep because the Lord alone makes him dwell in safety. The psalm moves from plea, to rebuke, to quiet confidence.
 
+
+### Situation
+The speaker asks God to hear him under pressure and challenges those turning honor into shame.
+
+### Emotional State
+Distress and indignation settle into inner stillness, joy, and sleep.
+
+### Conflict
+Others pursue falsehood and empty gain, while many doubt that any good will come.
+
+### Turning Point
+The prayer turns to God’s lifted face and a gladness greater than plentiful harvest.
+
+### Core Spiritual Truth
+Safety and lasting joy come from the LORD’s presence, making peaceful sleep possible.
+
 ---
 
-## 3. Verses (Original Song Lyrics)
+## 3. My Interpretation
+
+### Contemporary Equivalent
+At the end of a day of shame and noise, a person examines the heart and asks God for light.
+
+### What I Preserved
+The plea, public shame, stillness on the bed, trust, divine light, gladness beyond material gain, and peaceful sleep.
+
+### Modern Images / Language
+Stars, low heart, and a sunset fade expand the imagery in the existing chanson arrangement.
+
+### Song Thesis
+God hears my plea and gives me peace enough to rest when the world is still unsettled.
+
+---
+
+## 4. Original Song Lyrics
+
+### Verses
 
 **(Verse 1)**
 Hear me when I call, O God of my soul,
@@ -58,7 +92,7 @@ He hears when I call, His love fills my heart.
 
 ---
 
-## 4. Chorus (Original Song Lyrics)
+### Chorus
 
 You hear my call, You hold me in Your light,
 Gladness fills my heart, like stars in the night.
@@ -67,7 +101,7 @@ Lord, You alone are my safety and peace.
 
 ---
 
-## 5. Final Lyrics (Original Song Lyrics)
+## 5. Final Lyrics
 
 [Verse 1]
 [Solo vocal, raspy mezzo-soprano, fingerpicked guitar continues]
@@ -120,3 +154,43 @@ I'll lie down in peace, and sleep in Your care,
 C          D          G
 Lord, Your light shines on me, Your love everywhere.
 [Production notes: arrangement, dynamics, vocal delivery]
+
+---
+
+## 6. Production
+
+**Working Title:** You alone are my Safety and Peace  
+**Genre:** Spiritual chanson with acoustic and orchestral colors  
+**Tempo:** 70–80 BPM (existing metadata)  
+**Key:** G major suggested by the existing chord chart  
+**Vocal:** Female mezzo-soprano, solo verses and warm chorus harmonies  
+**Instrumentation:** Acoustic guitar, soft strings, optional shaker  
+**Mood:** Distressed, prayerful, peaceful  
+**Emotional Arc:** From urgent call and confrontation to gladness, calm, and sleep  
+
+### Suno Style
+Retain the existing Suno Style Metadata; intimate spiritual chanson with acoustic guitar and an understated string swell.
+
+### Arrangement Notes
+Follow the chord markings in the final lyrics. Begin with fingerpicking, open the chorus with harmony, return to solo for verse two, and end with the written slow fade.
+
+### Vocal Notes
+Let the final line, 'safety and peace,' arrive as release; keep the verse delivery close and unforced.
+
+### Mix / Master Notes
+Place the guitar and voice forward; keep strings and shaker quiet enough for the bedtime stillness to feel earned.
+
+---
+
+## 7. Release
+
+**Album:**  
+**Version:**  
+**Release Status:**  
+**ISRC:**  
+**Notes:**  
+
+---
+
+> The goal is not a literal translation of the Psalm, but a contemporary song that preserves its emotional and spiritual intent.
+

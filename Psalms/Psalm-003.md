@@ -37,13 +37,47 @@
 
 ---
 
-## 2. Summary
+## 2. What David Is Saying
 
 David is honest about his pain and the size of his problem. He brings his raw fear directly to God in prayer. His foes mock his faith, saying God will not help him. David calls God a "shield around me," his "glory," and the one who "lifts my head high." He cries out, and God answers from His holy hill. The word "shield" means total protection on every side — above, beneath, and within. God restores his honor and confidence. David asks God to rise up, save him, and strike his enemies. He ends by declaring that salvation belongs to the Lord and asks for God's blessing on His people. David leaves justice and victory in God's hands rather than trying to fix everything by his own power.
 
+
+### Situation
+The speaker is surrounded by enemies and hears them say that God will not help him.
+
+### Emotional State
+Alarm and humiliation shift into trust, rest, and courageous prayer.
+
+### Conflict
+A crowd’s accusation challenges his faith while real danger remains around him.
+
+### Turning Point
+He names the LORD his shield and head lifter, then discovers he can sleep and wake sustained.
+
+### Core Spiritual Truth
+Deliverance belongs to the LORD, and the blessing he asks for reaches all God’s people.
+
 ---
 
-## 3. Verses (Original Song Lyrics)
+## 3. My Interpretation
+
+### Contemporary Equivalent
+Someone is publicly written off, yet chooses prayer and rest amid pressure and threat.
+
+### What I Preserved
+The multiplying enemies, the taunt, the shield, lifted head, answer from the holy hill, sleep, and final communal blessing.
+
+### Modern Images / Language
+The song holds onto holy hill and Selah, using a hum or pause after each verse to make space for breath.
+
+### Song Thesis
+When everything says God has abandoned me, I can call out, rest, and entrust rescue to him.
+
+---
+
+## 4. Original Song Lyrics
+
+### Verses
 
 **(Verse 1)**
 Lord, how they rise to trouble me,
@@ -68,7 +102,7 @@ Selah (hum or pause)
 
 ---
 
-## 4. Chorus (Original Song Lyrics)
+### Chorus
 
 But Thou, O Lord, my shield, my glory,
 Lifter of my weary head.
@@ -77,7 +111,7 @@ From Your holy hill, I'm led.
 
 ---
 
-## 5. Final Lyrics (Original Song Lyrics)
+## 5. Final Lyrics
 
 [Intro: Soft Acoustic Fingerpicking, Warm Banjo Underscore, Distant Harmonica]
 [Soft Vocals, Mezzo-Soprano, Slightly Raspy, Reflective]
@@ -122,3 +156,43 @@ Selah (hum or pause)
 Salvation's Yours, Your blessing falls,
 On Your people for Your sake.
 Mmm, mmm, mmm…
+
+---
+
+## 6. Production
+
+**Working Title:** From Your Holy Hill I'm Led  
+**Genre:** Raw acoustic spiritual folk  
+**Tempo:** 70–80 BPM (existing metadata)  
+**Key:** Not documented  
+**Vocal:** Female mezzo-soprano, lightly raspy, harmony in chorus  
+**Instrumentation:** Acoustic guitar, faint banjo, harmonica, light percussion and restrained slide guitar  
+**Mood:** Vulnerable, assured, grateful  
+**Emotional Arc:** The opening threat resolves in prayer, sleep, rising confidence, and shared blessing  
+
+### Suno Style
+Retain the existing Suno Style Metadata at the top as the source style brief; intimate acoustic folk, organic warmth and a restrained lift in the chorus.
+
+### Arrangement Notes
+Preserve the pauses marked Selah. Keep verse one sparse, add harmony at the chorus, and let verse three rise without rushing.
+
+### Vocal Notes
+Begin with strain in the threat, then sing the shield image with calm conviction. The outro should soften into blessing.
+
+### Mix / Master Notes
+Prioritize the lead lyric over harmonica and banjo; let the pauses remain audible.
+
+---
+
+## 7. Release
+
+**Album:**  
+**Version:**  
+**Release Status:**  
+**ISRC:**  
+**Notes:**  
+
+---
+
+> The goal is not a literal translation of the Psalm, but a contemporary song that preserves its emotional and spiritual intent.
+
