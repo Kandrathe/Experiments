@@ -148,6 +148,8 @@ Mmm, mmm, mmm… they disappear.
 
 ## 6. Production
 
+<img width="703" height="299" alt="image" src="https://github.com/user-attachments/assets/eff33dd8-014b-4ba8-997f-c779dab8be08" />
+
 **Working Title:** The Tree of Righteousness  
 **Genre:** Spiritual acoustic folk; reflective lo-fi  
 **Tempo:** Not documented; settle by the vocal phrasing  
